@@ -1,0 +1,238 @@
+(footprint "NTD3055L104T4G_ONSC-DPAK-3-369C-01_V"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.175 -0.635 0)
+		(layer "F.SilkS")
+		(uuid "85f8dd03-52f2-48cd-acac-6adc3e5ec6c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ONSC-DPAK-3-369C-01_V"
+		(at 13.335 0.889 0)
+		(layer "F.Fab")
+		(uuid "e43614b2-1d81-472f-b0b7-4a987b0f139a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "256e8b66-7778-455c-a99f-a0bd1e57b1d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "291ee015-d539-40a7-8ffe-def649204598")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "731cca3c-90ba-4eb9-b75f-9c7d1e5bee19")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 -3.27)
+		(end -0.452999 -3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5fb78b7a-43bf-4410-a560-b7afca2f66fa")
+	)
+	(fp_line
+		(start -1.6 3.27)
+		(end -1.6 -3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "275165e8-2d82-407c-ac8b-261472ebcf7c")
+	)
+	(fp_line
+		(start -1.6 3.27)
+		(end -0.452999 3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49cd4408-f81b-41a4-a8b6-9ac886142f3e")
+	)
+	(fp_circle
+		(center -4.4 -3.64)
+		(end -4.274999 -3.64)
+		(stroke
+			(width 0.249999)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "8dfc0a54-cf1c-412b-9df8-f7f3c6081e12")
+	)
+	(fp_line
+		(start -6 -3.465)
+		(end 6 -3.465)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "13322264-0885-4185-8aa3-714fe61af907")
+	)
+	(fp_line
+		(start -6 3.465)
+		(end -6 -3.465)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c256c62e-11ce-4d10-b812-440490fb83bb")
+	)
+	(fp_line
+		(start -6 3.465)
+		(end 6 3.465)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ba9bcc31-8784-4886-b767-018c0f13549b")
+	)
+	(fp_line
+		(start -1.6 -3.27)
+		(end 4.495 -3.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9d2b6bfe-e9b7-40ed-bf86-8858a6dc7abf")
+	)
+	(fp_line
+		(start -1.6 3.27)
+		(end -1.6 -3.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "31e99486-ae3f-48b6-8827-0dc8e14537d5")
+	)
+	(fp_line
+		(start -1.6 3.27)
+		(end 4.495 3.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c57f379b-370c-4e89-b444-651c056d2323")
+	)
+	(fp_line
+		(start -0.500002 0)
+		(end 0.499999 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "58b6039d-0703-4e8c-bd1f-10cc81392004")
+	)
+	(fp_line
+		(start 0 0.499999)
+		(end 0 -0.500002)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7fbf409c-530b-4ee1-8197-9e449f1f6d81")
+	)
+	(fp_line
+		(start 4.495 3.27)
+		(end 4.495 -3.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "770750fb-9772-4fe8-bdaa-5acb7870b1e9")
+	)
+	(fp_line
+		(start 6 3.465)
+		(end 6 -3.465)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "49833f9c-1bb9-4fe7-8411-50388952a75f")
+	)
+	(pad "1" smd rect
+		(at -4.4 -2.29 90)
+		(size 1.6 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "d56a8018-a60a-49d6-af84-b0e65014ca2b")
+	)
+	(pad "3" smd rect
+		(at -4.4 2.29 90)
+		(size 1.6 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "723b4ea2-b3d6-4b49-b51f-7f30c6bd5323")
+	)
+	(pad "4" smd rect
+		(at 2.8 0 90)
+		(size 5.8 6.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "ca88013c-e43b-4af5-aead-38a731e5f771")
+	)
+	(model "${KICAD_3RD_PARTY}/Snapeda.3dshapes/NTD3055L104T4G.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
